@@ -31,7 +31,7 @@ int main() {
   }
 
   else{
-    cout << "Operação inválida. Cheque o primeiro comentário do código.";
+    cout << "Operação inválida. Cheque a descrição do programa.";
     return 0;
   }
 
